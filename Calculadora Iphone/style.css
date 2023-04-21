@@ -1,0 +1,96 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 50vh;
+    margin: 0;
+    font-family: monospace;
+    background-color: rgb(14, 15, 24);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color:white;
+    text-decoration:underline;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#container{
+    width:270px;
+    background-color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
+.pantalla{
+    display: flex;
+    width: 240px;
+    height: 90px;
+    background-color: black;
+    border:none;
+    color:white;
+    font-size:3em;
+    margin: 5px 0px 5px 5px;
+    text-align: end;
+
+}
+
+.botones{
+    display: inline;
+}
+button{
+    width: 50px;
+    height: 50px;
+    font-weight:bolder;
+    margin: 4px;
+    border-radius: 30px;
+    border:none;
+}
+button:hover{
+    opacity: 70%;
+}
+.filaUno{
+    background-color: rgb(156, 151, 151);
+    font-size: medium;
+}
+.signos{
+    background-color: rgb(238, 141, 22);
+    font-size: medium;
+    margin-right: 0px;
+
+}
+.num{
+    font-size:x-large;
+    color: rgb(250, 244, 244);
+}
+
+.numeros{
+    background-color: rgb(39, 37, 37);
+}
+
+.zero{
+    width: 116px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: 9px;
+    font-weight:bold;
+    padding: 30px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
