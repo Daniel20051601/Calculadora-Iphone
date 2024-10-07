@@ -150,28 +150,28 @@
           <mxGeometry x="60" y="460" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ETfG6icH38s1JBTWjNVg-1" value="Compañia de Transporte Terrestre" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1060" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1660" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYK2IDly03wtqqJxrzah-1" value="Empresa Exportadora" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_rXxQUVz0Myq8ors65lC-1" value="Compañia de Transporte Maritimo" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="740" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-bO0Q5M6XmGy7yKdaZe-1" value="Aduana" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1420" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p4pngSH1S2nOtmQAo92k-1" value="Servicio Aduanero" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1240" y="120" width="110" height="60" as="geometry" />
+          <mxGeometry x="990" y="120" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWFfEWIPEMsVTcGBzMFg-1" value="&lt;b&gt;0.2 &lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Dar segumiento al pedido&lt;/span&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="727" y="470" width="100" height="100" as="geometry" />
+          <mxGeometry x="580" y="460" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pWFfEWIPEMsVTcGBzMFg-2" value="&lt;b&gt;0.3&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-DO;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Solicitar&lt;br/&gt;servicio aduanero&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="470" width="100" height="100" as="geometry" />
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-2" value="&lt;b&gt;0.3&amp;nbsp;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-DO;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Solicitar&lt;br&gt;servicio aduanero&lt;/span&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="460" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pWFfEWIPEMsVTcGBzMFg-4" value="&lt;b&gt;0.4&amp;nbsp;&lt;span style=&quot;text-indent: -18pt; background-color: initial;&quot;&gt;Recibir productos&lt;br&gt;importados&lt;/span&gt;&lt;/b&gt;&lt;p style=&quot;margin-left:18.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="450" width="100" height="100" as="geometry" />
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-4" value="&lt;b&gt;0.5&amp;nbsp;&lt;span style=&quot;text-indent: -18pt; background-color: initial;&quot;&gt;Recibir productos&lt;br&gt;importados&lt;/span&gt;&lt;/b&gt;&lt;p style=&quot;margin-left:18.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="450" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pWFfEWIPEMsVTcGBzMFg-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.952;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xVBr88kwPzWR1NWpiG85-1" target="zYK2IDly03wtqqJxrzah-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -193,18 +193,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWFfEWIPEMsVTcGBzMFg-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="pWFfEWIPEMsVTcGBzMFg-1" target="_rXxQUVz0Myq8ors65lC-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="479" as="sourcePoint" />
-            <mxPoint x="495" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="870" y="400" />
-              <mxPoint x="890" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWFfEWIPEMsVTcGBzMFg-15" value="&lt;b&gt;Orden de Compra&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="350" width="90" height="50" as="geometry" />
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-15" value="&lt;b&gt;Orden de Compra + Termino de Compra&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pWFfEWIPEMsVTcGBzMFg-16" value="&lt;b&gt;Factura Comercial + Certificado de Origen + Lista de Empaque&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-110" y="240" width="150" height="50" as="geometry" />
@@ -214,22 +204,82 @@
             <mxPoint x="380" y="485" as="sourcePoint" />
             <mxPoint x="395" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="420" />
-              <mxPoint x="700" y="310" />
+              <mxPoint x="650" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="re5ZbDhjcuXzG6dIn9EZ-1" value="Manifiesto de carga +&lt;div&gt;enlace de seguimiento&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="140" height="30" as="geometry" />
+          <mxGeometry x="490" y="380" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWFfEWIPEMsVTcGBzMFg-2">
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWFfEWIPEMsVTcGBzMFg-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="520" as="sourcePoint" />
-            <mxPoint x="210" y="470" as="targetPoint" />
+            <mxPoint x="160" y="525" as="sourcePoint" />
+            <mxPoint x="210" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="525" />
+              <mxPoint x="730" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-4" value="&lt;b&gt;Factura Comercial + Certificado de Origen + Lista de Empaque&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="470" width="150" height="50" as="geometry" />
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-7" value="&lt;b&gt;Factura Comercial + Certificado de Origen + Lista de Empaque&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWFfEWIPEMsVTcGBzMFg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="510" as="sourcePoint" />
+            <mxPoint x="730" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Manifiesto de carga&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="470" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pWFfEWIPEMsVTcGBzMFg-2" target="p4pngSH1S2nOtmQAo92k-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="320" as="sourcePoint" />
+            <mxPoint x="1090" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-13" value="&lt;b&gt;Factura Comercial + Certificado de Origen + Lista de Empaque +&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;Manifiesto de carga&lt;/span&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="285" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-14" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="pWFfEWIPEMsVTcGBzMFg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="969.5" y="464.5" as="sourcePoint" />
+            <mxPoint x="1013.5" y="180.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XB32ngiibglEk9MrM-B7-1" value="Costo por servicio +Declaracion Aduanera" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWKdbx1q_MzumKK7jskU-1" value="&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;0.4 Realizar declaracion aduanera&lt;/b&gt;&lt;/div&gt;&lt;p style=&quot;margin-left:18.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol7nh5FPAGV1sDy7ou1d-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWKdbx1q_MzumKK7jskU-1" target="q-bO0Q5M6XmGy7yKdaZe-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="470" as="sourcePoint" />
+            <mxPoint x="1370" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1480" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ol7nh5FPAGV1sDy7ou1d-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pWFfEWIPEMsVTcGBzMFg-2" target="nWKdbx1q_MzumKK7jskU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="520" as="sourcePoint" />
+            <mxPoint x="1110" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ol7nh5FPAGV1sDy7ou1d-3" value="Declaracion Aduanera" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1150" y="475" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol7nh5FPAGV1sDy7ou1d-4" value="Declaracion Aduanera + Pago de Impuestos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1450" y="285" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
