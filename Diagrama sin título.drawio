@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="3">
   <diagram name="Nivel 0" id="CtEMc4vvDd8kpJ2ZCNQz">
-    <mxGraphModel dx="2320" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2694" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="790" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O0hYwn-8YvZrBXnablrd-10" value="Servicio Aduanero" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="420" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="540" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="O0hYwn-8YvZrBXnablrd-13" value="&lt;b&gt;Nivel 0&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="-290" width="60" height="30" as="geometry" />
@@ -48,8 +48,7 @@
             <mxPoint x="330" y="400" as="sourcePoint" />
             <mxPoint x="340" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="600" />
-              <mxPoint x="340" y="430" />
+              <mxPoint x="350" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O0hYwn-8YvZrBXnablrd-28" value="Orden de Compra +&lt;div&gt;Terminos de Compra&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="10" width="130" height="30" as="geometry" />
+          <mxGeometry x="220" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O0hYwn-8YvZrBXnablrd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O0hYwn-8YvZrBXnablrd-28" target="O0hYwn-8YvZrBXnablrd-28">
           <mxGeometry relative="1" as="geometry" />
@@ -125,16 +124,19 @@
           <mxGeometry x="370" y="-50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uRx-6sWCcBoYehUpEYJr-2" value="Documentos aduaneros" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="410" width="130" height="30" as="geometry" />
+          <mxGeometry x="450" y="360" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uRx-6sWCcBoYehUpEYJr-3" value="Costo por servicio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="240" y="460" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uRx-6sWCcBoYehUpEYJr-4" value="Costo por servicio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uRx-6sWCcBoYehUpEYJr-5" value="Impuestos por pagar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="-25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uRx-6sWCcBoYehUpEYJr-6" value="Declaracion Aduanera" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="697" y="180" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
