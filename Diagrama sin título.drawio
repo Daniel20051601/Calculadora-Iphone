@@ -142,10 +142,95 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V4RNTAmVYvBzb5Rr_QGd" name="Nivel 1">
-    <mxGraphModel dx="1120" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2181" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xVBr88kwPzWR1NWpiG85-1" value="&lt;b&gt;0.1 Emitir orden de Compra&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ETfG6icH38s1JBTWjNVg-1" value="Compañia de Transporte Terrestre" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYK2IDly03wtqqJxrzah-1" value="Empresa Exportadora" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_rXxQUVz0Myq8ors65lC-1" value="Compañia de Transporte Maritimo" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bO0Q5M6XmGy7yKdaZe-1" value="Aduana" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1420" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4pngSH1S2nOtmQAo92k-1" value="Servicio Aduanero" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1240" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-1" value="&lt;b&gt;0.2 &lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Dar segumiento al pedido&lt;/span&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="727" y="470" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-2" value="&lt;b&gt;0.3&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-DO;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Solicitar&lt;br/&gt;servicio aduanero&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-4" value="&lt;b&gt;0.4&amp;nbsp;&lt;span style=&quot;text-indent: -18pt; background-color: initial;&quot;&gt;Recibir productos&lt;br&gt;importados&lt;/span&gt;&lt;/b&gt;&lt;p style=&quot;margin-left:18.0pt;mso-add-space:auto;&lt;br/&gt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.952;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xVBr88kwPzWR1NWpiG85-1" target="zYK2IDly03wtqqJxrzah-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="460" as="sourcePoint" />
+            <mxPoint x="170" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="460" />
+              <mxPoint x="210" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-7" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="xVBr88kwPzWR1NWpiG85-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="475" as="sourcePoint" />
+            <mxPoint x="65" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="460" />
+              <mxPoint x="30" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="pWFfEWIPEMsVTcGBzMFg-1" target="_rXxQUVz0Myq8ors65lC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="479" as="sourcePoint" />
+            <mxPoint x="495" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="400" />
+              <mxPoint x="890" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-15" value="&lt;b&gt;Orden de Compra&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pWFfEWIPEMsVTcGBzMFg-16" value="&lt;b&gt;Factura Comercial + Certificado de Origen + Lista de Empaque&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qhKHDz6VnPCgXfe8u3W-2" value="" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="pWFfEWIPEMsVTcGBzMFg-1" target="_rXxQUVz0Myq8ors65lC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="485" as="sourcePoint" />
+            <mxPoint x="395" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="420" />
+              <mxPoint x="700" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-1" value="Manifiesto de carga +&lt;div&gt;enlace de seguimiento&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWFfEWIPEMsVTcGBzMFg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="520" as="sourcePoint" />
+            <mxPoint x="210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="re5ZbDhjcuXzG6dIn9EZ-4" value="&lt;b&gt;Factura Comercial + Certificado de Origen + Lista de Empaque&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
